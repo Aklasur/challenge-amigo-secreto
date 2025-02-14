@@ -3,10 +3,10 @@
 <div align="center">
 
 
-[![GitHub Stars](https://img.shields.io/github/stars/Aklasur/amigo-secret-projeto.svg)](https://github.com/Aklasur/amigo-secret-projeto/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Aklasur/amigo-secret-projeto.svg)](https://github.com/Aklasur/amigo-secret-projeto/network)
-[![GitHub Issues](https://img.shields.io/github/issues/Aklasur/amigo-secret-projeto.svg)](https://github.com/Aklasur/amigo-secret-projeto/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Aklasur/amigo-secret-projeto.svg)](https://github.com/Aklasur/amigo-secret-projeto/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/Aklasur/challenge-amigo-secreto.svg)](https://github.com/Aklasur/challenge-amigo-secreto/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Aklasur/challenge-amigo-secreto.svg)](https://github.com/Aklasur/challenge-amigo-secreto/network)
+[![GitHub Issues](https://img.shields.io/github/issues/Aklasur/challenge-amigo-secreto.svg)](https://github.com/Aklasur/challenge-amigo-secreto/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Aklasur/challenge-amigo-secreto.svg)](https://github.com/Aklasur/challenge-amigo-secreto/pulls)
 
 </div>
 
