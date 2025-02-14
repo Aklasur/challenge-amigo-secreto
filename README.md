@@ -18,7 +18,7 @@ Este projeto é uma aplicação interativa simples, desenvolvida com JavaScript,
 - **Sorteio de amigo**: Após adicionar nomes à lista, o usuário pode realizar um sorteio aleatório de um amigo e exibir o nome sorteado na tela.
 - **Feedback ao usuário**: Mensagens de alerta são exibidas para informar o usuário sobre erros, como quando não há amigos para realizar o sorteio.
 
-## Linguagens Utilizadas
+## Tecnologias Utilizadas
 As seguintes tecnologias foram usadas no projeto:
 - **HTML**: Estrutura base da página.
 - **CSS**: Estilos personalizados e animações.
